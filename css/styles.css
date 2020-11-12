@@ -205,7 +205,9 @@ img {
 /* Features */
 
 .features-head img {
-  width: 200px;
+  border-radius: 50%;
+  height: 400px;
+  width: 400px;
   justify-self: flex-end;
 }
 
